@@ -52,7 +52,7 @@ Extremamente flexível uma vez que possui um grande número de hiperparâmetros 
 
 A AUC junto com a curva mostra se um modelo esta overfitado, ou seja, uma das features que foram escolhidas tem um peso muito grande com a variável target.
 
--Como podemos ver abaixo os pesos das features no modelo em relação a target
+- Como podemos ver abaixo os pesos das features no modelo em relação a target
 
 ![Variáveis](https://github.com/joaovbdss69/Bank-Loan-Model/blob/main/images/pesoVariavel.png)
 
