@@ -46,14 +46,14 @@ Extremamente flexível uma vez que possui um grande número de hiperparâmetros 
 
 #### Avaliação da Curva ROC 
 
-    ![CurvaROC](https://github.com/joaovbdss69/Bank-Loan-Model/blob/main/images/CURVAROC.png)
+![CurvaROC](https://github.com/joaovbdss69/Bank-Loan-Model/blob/main/images/CURVAROC.png)
 
 A AUC junto com a curva mostra se um modelo esta overfitado, ou seja, uma das features que foram escolhidas tem um peso muito grande com a variável target.
 
 -Como podemos ver abaixo os pesos das features no modelo em relação a target
 
-    ![Variáveis](https://github.com/joaovbdss69/Bank-Loan-Model/blob/main/images/pesoVariavel.png)
+![Variáveis](https://github.com/joaovbdss69/Bank-Loan-Model/blob/main/images/pesoVariavel.png)
 
 Neste modelo, obtive um valor de 0.868 de AUC em treino enquanto 0.862 em teste, não tendo um valor discrepante entre esses dois valores, significa que o modelo esta acertivo e para confirmar esse ponto temos a matriz de confusão e termos algumas métricas como Acurácia e Precisão
 
-    ![CurvaROC](https://github.com/joaovbdss69/Bank-Loan-Model/blob/main/images/Matrizdeconfusao.png)
+![CurvaROC](https://github.com/joaovbdss69/Bank-Loan-Model/blob/main/images/Matrizdeconfusao.png)
