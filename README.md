@@ -44,6 +44,8 @@ Extremamente flexível uma vez que possui um grande número de hiperparâmetros 
 
 - Treinamento do Modelo com os parâmetros e seus respectivos valores
 
+![Model](https://github.com/joaovbdss69/Bank-Loan-Model/blob/main/images/modeloXGBOOST.png)
+
 #### Avaliação da Curva ROC 
 
 ![CurvaROC](https://github.com/joaovbdss69/Bank-Loan-Model/blob/main/images/CURVAROC.png)
