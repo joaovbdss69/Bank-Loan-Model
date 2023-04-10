@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-O objetivo desse projeto é usar um dataset de empréstimos bancários para construir um modelo de predição para possiveis inadimplências nos empréstimos, o modelo escolido foi o XGBOOST e o dataset inicial é o arquivo "datataset_bank_loan.csv" 
+O objetivo desse projeto é usar um dataset de empréstimos bancários para construir um modelo de predição para possiveis inadimplências, o modelo escolhido foi o XGBOOST e o dataset inicial é o arquivo "datataset_bank_loan.csv" 
 
 ## ETL
 
